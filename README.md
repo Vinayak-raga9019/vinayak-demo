@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinayak Raga</h1>
 
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java and javascript**
 
 - 📫 How to reach me **ragamatish@gmail.com**
 
