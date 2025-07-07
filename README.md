@@ -11,7 +11,7 @@
 - Python Programming
 - SolidWorks (CAD)
 - Git & GitHub
-- Basic Web Development (HTML & CSS)
+- Basic Web Development (HTML & CSS Basics)
 
 -  
 
