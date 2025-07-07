@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinayak Raga</h1>
-<h1 align="left">## 📌 About Me
-🎓 Mechanical Engineering Student <br>
-💡 Exploring the world of Software Development & Design <br>
-🎯 Focused on Python, SolidWorks, Git & GitHub <br>
-📍 Based in Bangalore, India</h1>
+ 
+ 
 
+🎓 Mechanical Engineering Student  
+💡 Exploring the world of Software Development & Design  
+🎯 Focused on Python, SolidWorks, Git & GitHub  
+📍 Based in Bangalore, India
 
 -  ## 📚 Currently Learning
 - Python Programming
