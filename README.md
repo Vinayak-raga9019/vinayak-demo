@@ -9,11 +9,10 @@
 
 -  ## 📚 Currently Learning
 - Python Programming
-- SolidWorks (CAD)
+-  Fusion 360
 - Git & GitHub
 - Basic Web Development (HTML & CSS Basics)
-
--  
+-  Finite Element analysis using Fusion 360
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
