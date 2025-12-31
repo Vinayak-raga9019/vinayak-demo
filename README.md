@@ -1,38 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vinayak Raga</h1>
- 
- 
+# 💫 About Me:
+I am mechanical student but want to work as software developer.<br>I know html, CSS , JavaScript, react.js an other basic programming<br>languages like C, C++ , python . I was working on project called <br>e-commerce website using react.js 
 
-🎓 Mechanical Engineering Student  
-💡 Exploring the world of Software Development & Design  
-🎯 Focused on Python, SolidWorks, Git & GitHub  
-📍 Based in Bangalore, India
 
--  ## 📚 Currently Learning
-- Python Programming
--  Fusion 360
-- Git & GitHub
-- Basic Web Development (HTML & CSS Basics)
--  Finite Element analysis using Fusion 360
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vinayak Raga) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayak_raga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinayak Raga) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VINAYAK RAGA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ragamatish@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vinayak raga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak raga" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinayak raga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak raga" height="30" width="40" /></a>
-<a href="https://instagram.com/vinayak_raga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_raga" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vinayak-raga9019&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vinayak-raga9019&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-raga9019&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
- ### 🚀 Languages and Tools:
+---
+[![](https://visitcount.itsvg.in/api?id=Vinayak-raga9019&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
- 
-
-## ⚡ Fun Fact
-I like solving real-world mechanical problems and visualizing them with CAD models.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
