@@ -2,7 +2,7 @@
 <h3 align="center">Mechanical Engineering Student | Future Software Developer | Full Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Mechanical+Engineer+%7C+Aspiring+Software+Developer;Learning+Java+%7C+SQL+%7C+Python;Building+Projects+Everyday;Future+Full+Stack+Developer&center=true&width=500&height=40">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=%MECHANICAL+ENGINEER+%7C+Aspiring+Software+Developer;Learning+Java+%7C+SQL+%7C+Python;Building+Projects+Everyday;Future+Full+Stack+Developer&center=true&width=500&height=40">
 </p>
 
 ---
@@ -62,8 +62,8 @@
 
 <p align="center">
 <a href="https://github.com/Vinayak-raga9019"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto: "vinayakraga24003@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="www.linkedin.com/in/vinayak-raga-4a20a125b "><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto: "https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
